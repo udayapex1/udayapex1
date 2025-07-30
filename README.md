@@ -11,15 +11,19 @@
 **Backend:** Express.js • Fastify • MongoDB • PostgreSQL • Redis  
 **Frontend:** Next.js • Tailwind CSS • GSAP • Framer Motion  
 **Tools:** Postman • Docker • PM2 • Ubuntu • Git  
-**OS:** Ubuntu 22.04 LTS *(btw, I love it)*  
+**OS:** Ubuntu 22.04 LTS *(btw, I love it)*
 
 ---
 
 ## 🚀 **Current Projects**
 
-**🔒 ShadowMark** - Browser extension for privacy & surveillance detection  
-**🧠 Utron CLI** - AI-powered terminal assistant with natural language processing  
-**📡 MeshTalk** - Decentralized messaging via mesh networking protocols  
+**🧠 [Utron](https://www.npmjs.com/package/utron)** - AI-powered terminal assistant (npm package) with natural language processing  
+**📊 [Analyzer](https://marketplace.visualstudio.com/items?itemName=UdayPareta.analyzer)** - VS Code extension for comprehensive code analysis  
+**🎯 [Food Buddy](https://food-buddy-three.vercel.app)** - Food  website 
+**🏢 [Upwalls](https://upwall-fullstack.vercel.app/)** - Modern wallpaper website for desktop and mobile *(in development)*  
+**📚 [Study Hub](https://study-hub-frontend-test-bec1.vercel.app/)** - Collaborative learning platform *(in development)*  
+
+*Some projects are still cooking in the dev kitchen, but feel free to check out the journey and see the magic happening in real-time.*
 
 ---
 
@@ -36,7 +40,7 @@
 
 **Email:** uday@example.com  
 **LinkedIn:** [linkedin.com/in/udayapex1](https://linkedin.com/in/udayapex1)  
-**GitHub:** [github.com/udayapex1](https://github.com/udayapex1)  
+**GitHub:** [github.com/udayapex1](https://github.com/udayapex1)
 
 ---
 
