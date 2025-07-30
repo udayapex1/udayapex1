@@ -1,79 +1,43 @@
-```
-                    ┌─────────────────────────────────┐
-                    │        🔥 UDAY PARETA 🔥        │
-                    └─────────────────────────────────┘
-                    
-                          ┌─ ◉ ◉ ─┐
-                          │   ∩   │     💀 "Backend or die"
-                          └───────┘     
-                             ║║║        🖥️  Code ninja in action
-                          ╔══╩╩╩══╗     ⚡ Terminal is life
-                          ║ █████ ║     🐧 Linux powered
-                          ║ ▓▓▓▓▓ ║     ❌ Frontend? Nah bro
-                          ╚═══════╝     
-                             │ │        🚀 "./deploy && profit"
-                            ╱   ╲       
-```
+# Uday Pareta
+**Backend Developer | Systems Engineer | Open Source Contributor**
 
-```bash
-root@github:~# whoami
-uday@localhost:~$ Backend Dev (95% Logic / 5% Regret)
-
-root@github:~# cat /proc/passion
-[✓] APIs that purr  [✓] Servers that fly  [✓] Logs that sing  [✗] CSS (hard pass)
-
-root@github:~# echo "Code like you're root. Debug like you're mortal."
-```
+> *Building scalable systems and robust APIs*
 
 ---
 
-## ⚡ **./stack.sh**
+## 🛠️ **Technical Stack**
 
-```yaml
-lang: [JavaScript, Python, C++, Bash]
-backend: [Express.js, Fastify, MongoDB, Redis]  
-ops: [Docker, Linux, PM2, tmux]
-```
+**Languages:** JavaScript (Node.js) • Python • C++ • Bash  
+**Backend:** Express.js • Fastify • MongoDB • PostgreSQL • Redis  
+**DevOps:** Docker • PM2 • Linux • Nginx • Git  
 
 ---
 
-## 🚀 **ps aux | grep projects**
+## 🚀 **Current Projects**
 
-```
-551  ShadowMark    → surveillance.kill()
-847  Utron CLI     → ai.terminal.magic()  
-923  MeshTalk      → offline.mesh.chat()
-```
+**🔒 ShadowMark** - Browser extension for privacy & surveillance detection  
+**🧠 Utron CLI** - AI-powered terminal assistant with natural language processing  
+**📡 MeshTalk** - Decentralized messaging via mesh networking protocols  
 
 ---
 
-## 📈 **htop**
-
-```
- CPU  Backend████████████████████▒▒▒ 95%
- RAM  Coffee ████████████████████████ ∞MB
- I/O  CSS   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ 42KB
-```
+## 📊 **GitHub Statistics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayapex1&show_icons=true&theme=terminal&hide_border=true" height="140"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayapex1&theme=dark&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=udayapex1&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayapex1&theme=dark&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🌐 **netstat -tlnp**
+## 📫 **Connect**
 
-```
-tcp  uday@example.com           :443  LISTEN
-tcp  linkedin.com/in/udayapex1  :80   LISTEN  
-tcp  github.com/udayapex1       :22   LISTEN
-```
+**Email:** uday@example.com  
+**LinkedIn:** [linkedin.com/in/udayapex1](https://linkedin.com/in/udayapex1)  
+**GitHub:** [github.com/udayapex1](https://github.com/udayapex1)  
 
 ---
 
-```bash
-root@github:~# sudo rm -rf frontend/
-root@github:~# echo "Backend supremacy activated ⚡"
-root@github:~# exit 0
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udayapex1&color=blue&style=flat-square" />
+</p>
