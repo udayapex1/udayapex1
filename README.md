@@ -64,11 +64,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udayapex1&color=blue&style=flat-square" />
   <!-- Snake eating commits -->
-<img src="https://raw.githubusercontent.com/udayapex1/udayapex1/output/github-contribution-grid-snake.svg" />
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Linux+Enthusiast;API+Creator&center=true&width=380&height=45">
 
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
