@@ -1,26 +1,32 @@
-# Hi there, I'm uday Pareta ! 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+I’m+Uday+Pareta;MERN+Stack+Developer;Linux+Poweruser;AI+Explorer&font=Fira%20Code&center=true&width=450&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+</p>
 
-## About Me
-I'm a passionate software developer who loves building applications and exploring new technologies. Currently, I'm focusing on [mention your current projects or interests].
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-## Skills
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express.js, MongoDB
-- Tools: Git, VS Code, Postman
+<!-- GitHub Stats & Top Langs -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udayapex1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayapex1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-## Projects
-- [Project Name](link): Brief description or tagline
-- [Project Name](link): Brief description or tagline
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=udayapex1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-## Find Me Online
-- [Portfolio Website](link)
-- [LinkedIn](link)
-- [Twitter](link)
+---
 
-## Fun Facts
-- 🎵 I enjoy playing guitar in my free time.
-- 📚 I'm a big fan of science fiction novels.
+## 👨‍💻 About Me
 
-Feel free to reach out to me at [your email] to discuss collaborations or projects!
-
-<!-- Add any badges or additional sections as needed -->
+```js
+const uday = {
+  code: ["JavaScript", "C++", "Java", "Python"],
+  tools: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "Next.js"],
+  currentlyBuilding: "MeshTalk - Offline Chat App",
+  funFact: "I make the terminal speak — literally! 💻🗣️"
+}
