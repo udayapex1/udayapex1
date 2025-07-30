@@ -38,9 +38,20 @@
 
 ## 📫 **Connect**
 
-**Email:** uday@example.com  
-**LinkedIn:** [linkedin.com/in/udayapex1](https://linkedin.com/in/udayapex1)  
-**GitHub:** [github.com/udayapex1](https://github.com/udayapex1)
+<p align="center">
+  <a href="mailto:udaypareta645@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/uday-pareta-b114aa284">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/udayapex1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/you_dazzz?igsh=bWk4czFndDF4bDJr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
