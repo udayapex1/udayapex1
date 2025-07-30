@@ -1,15 +1,17 @@
 # Uday Pareta
-**Backend Developer | Systems Engineer | Open Source Contributor**
+**Full Stack Developer | Systems Engineer | Linux Enthusiast**
 
-> *Building scalable systems and robust APIs*
+> *Building scalable systems, crushing APIs, and living the open-source life*
 
 ---
 
 ## 🛠️ **Technical Stack**
 
-**Languages:** JavaScript (Node.js) • Python • C++ • Bash  
+**Languages:** JavaScript (Node.js) • Python • Java • C • C++ • Bash  
 **Backend:** Express.js • Fastify • MongoDB • PostgreSQL • Redis  
-**DevOps:** Docker • PM2 • Linux • Nginx • Git  
+**Frontend:** Next.js • Tailwind CSS • GSAP • Framer Motion  
+**Tools:** Postman • Docker • PM2 • Ubuntu • Git  
+**OS:** Ubuntu 22.04 LTS *(btw, I love it)*  
 
 ---
 
@@ -35,6 +37,12 @@
 **Email:** uday@example.com  
 **LinkedIn:** [linkedin.com/in/udayapex1](https://linkedin.com/in/udayapex1)  
 **GitHub:** [github.com/udayapex1](https://github.com/udayapex1)  
+
+---
+
+## 💭 **Philosophy**
+
+*Big fan of Linus Torvalds and the open-source movement. Currently exploring operating systems internals and low-level programming. Always curious about how things work under the hood.*
 
 ---
 
