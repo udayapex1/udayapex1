@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm uday Pareta ! 👋
 
 ## About Me
 I'm a passionate software developer who loves building applications and exploring new technologies. Currently, I'm focusing on [mention your current projects or interests].
