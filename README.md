@@ -20,8 +20,8 @@
 **🧠 [Utron](https://www.npmjs.com/package/utron)** - AI-powered terminal assistant (npm package) with natural language processing  
 **📊 [Analyzer](https://marketplace.visualstudio.com/items?itemName=UdayPareta.analyzer)** - VS Code extension for comprehensive code analysis  
 **🍕 [Food Buddy](https://food-buddy-three.vercel.app)** - Modern food ordering and discovery platform  
-**🏢 [Upwalls](https://upwall-fullstack.vercel.app/)** - Modern wallpaper website for desktop and mobile *(in development)*  
-**📚 [Study Hub](https://study-hub-frontend-test-bec1.vercel.app/)** - Collaborative learning platform *(in development)*
+**🏢 [Upwalls](https://upwall-fullstack.vercel.app/)** - Modern wallpaper website for desktop and mobile *(in development , its private repo but after completion it will publically available)*  
+**📚 [Study Hub](https://study-hub-frontend-test-bec1.vercel.app/)** - Collaborative learning platform *(in development ,its private repo but after completion it will publically available)*
 
 *Some projects are still cooking in the dev kitchen, but feel free to check out the journey and see the magic happening in real-time.*
 
