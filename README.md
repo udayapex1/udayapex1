@@ -36,14 +36,7 @@ Here’s a quick glance at my portfolio website where I showcase my skills, proj
 
 ---
 
-## 📊 **GitHub Statistics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayapex1&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayapex1&theme=dark&hide_border=true" height="165"/>
-</p>
-
----
 
 ## 📫 **Connect**
 
