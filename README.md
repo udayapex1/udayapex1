@@ -1,4 +1,4 @@
-# Uday Pareta
+# Uday Pareta  
 **Full Stack Developer | Systems Engineer | Linux Enthusiast**
 
 > *Building scalable systems, crushing APIs, and living the open-source life*
@@ -20,10 +20,19 @@
 **🧠 [Utron](https://www.npmjs.com/package/utron)** - AI-powered terminal assistant (npm package) with natural language processing  
 **📊 [Analyzer](https://marketplace.visualstudio.com/items?itemName=UdayPareta.analyzer)** - VS Code extension for comprehensive code analysis  
 **🍕 [Food Buddy](https://food-buddy-three.vercel.app)** - Modern food ordering and discovery platform  
-**🏢 [Upwalls](https://upwall-fullstack.vercel.app/)** - Modern wallpaper website for desktop and mobile *(in development , its private repo but after completion it will publically available)*  
-**📚 [Study Hub](https://study-hub-frontend-test-bec1.vercel.app/)** - Collaborative learning platform *(in development ,its private repo but after completion it will publically available)*
- 
+**🏢 [Upwalls](https://upwall-fullstack.vercel.app/)** - Modern wallpaper website for desktop and mobile *(in development, private repo)*  
+**📚 [Study Hub](https://study-hub-frontend-test-bec1.vercel.app/)** - Collaborative learning platform *(in development, private repo)*
+
 *Some projects are still cooking in the dev kitchen, but feel free to check out the journey and see the magic happening in real-time.*
+
+---
+
+## 🖥️ **Portfolio**
+
+Here’s a quick glance at my portfolio website where I showcase my skills, projects, and more:
+
+- 🌐 [Visit My Portfolio](https://udaysite.vercel.app/)  
+- 📂 Explore projects, achievements, and get in touch!
 
 ---
 
@@ -63,7 +72,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udayapex1&color=blue&style=flat-square" />
-  <!-- Snake eating commits -->
-
-
 </p>
