@@ -55,12 +55,12 @@ Here’s a quick glance at my portfolio website where I showcase my skills, proj
   </a>
 </p>
 
----
+---  https://notex-coral.vercel.app/
 
 ## 💭 **Philosophy**
 
 *Big fan of Linus Torvalds and the open-source movement. Currently exploring operating systems internals and low-level programming. Always curious about how things work under the hood.*
-
+  
 ---
 
 <p align="center">
