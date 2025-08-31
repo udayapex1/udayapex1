@@ -21,7 +21,7 @@
 **📊 [Analyzer](https://marketplace.visualstudio.com/items?itemName=UdayPareta.analyzer)** - VS Code extension for comprehensive code analysis  
 **🍕 [Food Buddy](https://food-buddy-three.vercel.app)** - Modern food ordering and discovery platform  
 **🏢 [Upwalls](https://upwall-fullstack.vercel.app/)** - Modern wallpaper website for desktop and mobile *(in development, private repo)*  
-**📚 [Study Hub](https://study-hub-frontend-test-bec1.vercel.app/)** - Collaborative learning platform *(in development, private repo)*
+**📚 [Notex](https://notex-coral.vercel.app/)** - Collaborative learning platform *(in development, private repo)*
 
 *Some projects are still cooking in the dev kitchen, but feel free to check out the journey and see the magic happening in real-time.*
 
@@ -55,7 +55,7 @@ Here’s a quick glance at my portfolio website where I showcase my skills, proj
   </a>
 </p>
 
----  https://notex-coral.vercel.app/
+---
 
 ## 💭 **Philosophy**
 
