@@ -66,3 +66,4 @@ Here’s a quick glance at my portfolio website where I showcase my skills, proj
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udayapex1&color=blue&style=flat-square" />
 </p>
+  https://res.cloudinary.com/dwemivxbp/image/upload/v1758877367/IMG-20250921-WA0020_whnymy.jpg
